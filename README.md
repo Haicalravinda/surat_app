@@ -5,28 +5,35 @@ Aplikasi ini dirancang untuk mempermudah pengelolaan data surat, pengguna, dan n
 
 ---
 
-## 👥 Daftar User & Role
+## 🔐 Contoh Akun untuk Login
 
-| No | Nama             | Username   | Jabatan     | Bagian     | Subag     | Tanggal Terdaftar | Role / Hak Akses  |
-|----|------------------|------------|--------------|-------------|-----------|-------------------|-------------------|
-| 1  | azzam            | azzam      | Staff        | Bagian B    | Subag B2  | 03/11/2025        | User              |
-| 2  | vivi             | vivi       | Kabag        | Bagian B    | -         | 03/11/2025        | Admin Bagian B    |
-| 3  | inas             | inas       | Kabag        | Bagian B    | -         | 03/11/2025        | Admin Bagian B    |
-| 4  | zico             | zico       | Kasubag      | Bagian B    | Subag B2  | 03/11/2025        | Sub Admin B2      |
-| 5  | yoga             | yoga       | Kabag        | Bagian A    | -         | 03/11/2025        | Admin Bagian A    |
-| 6  | ikmal            | ikmal      | Kabag        | Bagian A    | -         | 03/11/2025        | Admin Bagian A    |
-| 7  | aryo             | aryoo      | Kasubag      | Bagian A    | Subag A1  | 03/11/2025        | Sub Admin A1      |
-| 8  | dimas ahmad      | dimas      | Kasubag      | Bagian A    | Subag A1  | 03/11/2025        | Sub Admin A1      |
-| 9  | yanto            | yanto      | Staff        | Bagian A    | Subag A1  | 03/11/2025        | User              |
-| 10 | rizky            | rizky      | Staff        | Bagian B    | Subag B2  | 03/11/2025        | User              |
-| 11 | seva nonda       | sevaa      | Staff        | Bagian B    | Subag B1  | 03/11/2025        | User              |
-| 12 | Arkhan           | arkhan     | Staff        | Bagian A    | Subag A1  | 03/11/2025        | User              |
-| 13 | ananda andra     | andra      | Kasubag      | Bagian B    | Subag B1  | 03/11/2025        | Sub Admin B1      |
-| 14 | Ibu Sekretaris   | sekretaris | Sekretaris   | -           | -         | 03/11/2025        | Super Admin       |
-| 15 | Bapak Kepala     | kepala     | Kepala       | -           | -         | 03/11/2025        | Administrator Utama |
+Gunakan akun di bawah ini untuk mencoba aplikasi:
 
+| No | Nama             | Username   | Password     | Jabatan     | Bagian     | Subag     |
+|----|------------------|------------|--------------|--------------|-------------|-----------|
+| 1  | Bapak Kepala     | kepala     | kepala12345  | Kepala       | -           | -         |
+| 2  | Ibu Sekretaris   | sekretaris | sekretaris   | Sekretaris   | -           | -         |
+| 3  | dimas ahmad      | dimas      | dimas123     | Kasubag      | Bagian A    | Subag A1  |
+| 4  | Arkhan           | arkhan     | arkhan       | Staff        | Bagian A    | Subag A1  |
+| 5  | seva nonda       | sevaa      | seva123      | Staff        | Bagian B    | Subag B1  |
+| 6  | rizky            | rizky      | rizky        | Staff        | Bagian B    | Subag B2  |
+| 7  | ananda andra     | andra      | andra        | Kasubag      | Bagian B    | Subag B1  |
+| 8  | ikmal            | ikmal      | ikmal123     | Kabag        | Bagian A    | -         |
+| 9  | inas             | inas       | inas123      | Kabag        | Bagian B    | -         |
 
+> 💡 Gunakan username dan password di atas untuk login sesuai role masing-masing.
 
+---
 
+## 👥 Daftar Role / Hak Akses
 
+| Jabatan     | Role / Akses Utama         |
+|--------------|----------------------------|
+| Kepala       | Administrator Utama        |
+| Sekretaris   | Super Admin                |
+| Kabag        | Admin Bagian               |
+| Kasubag      | Sub Admin Subbagian        |
+| Staff        | User Biasa (Input & Lihat) |
+
+---
 
